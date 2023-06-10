@@ -13,7 +13,7 @@
   transition: all .2s linear ;
 }
 
-*::selection{
+::selection{
   background:var(--red);
   color: #F7F5EB;
 
